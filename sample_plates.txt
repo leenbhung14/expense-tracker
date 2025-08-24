@@ -1,0 +1,13 @@
+# Sample plate numbers for testing
+# Lines starting with # are comments and will be ignored
+
+ABC123
+DEF456
+GHI789
+JKL012
+MNO345
+PQR678
+STU901
+VWX234
+YZA567
+BCD890
